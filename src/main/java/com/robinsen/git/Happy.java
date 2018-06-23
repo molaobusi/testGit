@@ -5,5 +5,6 @@ public class Happy {
 	public static void main(String[] args) {
 		System.out.println("test happy clone commit right");
 		System.out.println("test happy yuanshi commit left");
+		System.out.println("Hot Fix");
 	}
 }
